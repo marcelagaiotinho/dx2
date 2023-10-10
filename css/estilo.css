@@ -1,0 +1,45 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(196, 182, 247);
+    color: rgb(0, 7, 13);
+    font-size: xx-large;
+    text-align: center;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: center;
+}
+frame{
+    margin: 2000px;
+    padding: 2000px;
+}
+
+.d1 {
+    background-color: pink;
+    color: rgb(0, 0, 0);
+    border: 4px solid rgb(255, 255, 255);
+    margin: 20px;
+    padding: 20px;
+}
+
+.d2 {
+    background-color: rgb(186, 104, 226);
+    color: rgb(0, 0, 0);
+    border: 4px solid rgb(255, 255, 255);
+    margin: 2px;
+    padding: 10px;
+}
+button {
+    background-color: #ffffff;
+    color: rgb(75, 41, 147);
+    border: 2px solid #DCDCDC;
+}
+
+button:hover {
+    background-color: #DCDCDC;
+    color: #D3D3D3;
+}
+
+botoescenter {
+    display: flex;
+    justify-content: center;
+}
